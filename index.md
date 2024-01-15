@@ -6,3 +6,6 @@
 
 ### HW2 - 5 Datasets
 - [HW 2 webpage](HW2/HW2.html)
+- 
+### Project - Stock Price Forecasting
+- [Project webpage](Project/IE582_Project.pdf)
